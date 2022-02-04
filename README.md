@@ -1,0 +1,1 @@
+Esse projeto  eu utilizo pra colocar aulas em prática e testar códigos em modo geral!
