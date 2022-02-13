@@ -1,1 +1,2 @@
 Esse projeto  eu utilizo pra colocar aulas em prática e testar códigos em modo geral!
+Atualmente os testes e códigos adicionados estão sendo adicionados enquanto estou estudando a matéria do curso Desenvolvimento Web Completo 2022 comprado na plataforma Udemy.
