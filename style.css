@@ -1,0 +1,51 @@
+body{
+			/**background-image: url('_img/nuvem.png');**/
+			background-size: 200px;
+			background-repeat: repeat-x;
+			background-position: center top;
+			background-attachment: fixed;
+			background-image: linear-gradiente(blue, white);
+		}
+				
+		h2{
+			color: darkslateblue;
+			text-align: center;
+		}
+
+		.rosa{
+			color: hotpink;
+		}
+
+		#tripulacao{
+			background-color: #F2E2CE;
+
+		}
+		#borda-div{
+			border: 10px solid darkred;
+
+		}
+
+		#b1{
+			border-width: 10px;
+			border-style: dotted;
+			border-color: darkblue;
+			margin: 5px;
+
+		}
+
+		#b2{
+			border: 8px dashed lightgoldenrodyellow;
+			margin: 5px;			
+		}
+
+		#b3{
+			border-width: 6px;
+			border-style: outset;
+			border-color: hotpink;
+			margin: 5px;
+		}
+
+		#b4{
+			border: 4px groove darkgrey;
+			margin: 5px;
+		}
